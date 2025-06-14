@@ -1,0 +1,29 @@
+# Data Manipulation
+pandas
+numpy
+
+# Data Visualization
+matplotlib
+seaborn
+plotly
+
+# Machine Learning
+scikit-learn
+tensorflow  # or choose keras if preferred
+
+# NLP
+nltk
+spacy
+gensim
+
+# Database Connectivity
+sqlalchemy
+pymysql
+
+# Additional Libraries (optional but recommended)
+jupyterlab
+notebook
+imblearn
+xgboost
+lightgbm
+statsmodels

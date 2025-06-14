@@ -1,0 +1,66 @@
+# Virtual Environment
+.venv/
+venv/
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment files
+.env
+
+# IDE-specific files
+.vscode/
+.idea/
+
+# Miscellaneous
+*.log
+.DS_Store
+
+# Large files and datasets
+*.csv
+*.xlsx
+*.xls
+*.json
+*.parquet
+*.zip
+*.tar
+*.gz
+*.rar
+
+# Machine Learning and Data Science
+*.pkl
+*.model
+*.h5
+*.hdf5
+*.pth
+
+# Power BI files
+*.pbix
+
+# Large media files
+*.mp4
+*.avi
+*.mov
+*.mkv
+*.wav
+*.mp3
+*.flac
+
+# Large image files
+*.tiff
+*.npy
+*.npz
+
+# Temporary large files
+temp/
+tmp/
+*.tmp
+
+# Jupyter Notebook large outputs
+*.ipynb_checkpoints/
+
+# Large log files
+logs/
+*.log.*
