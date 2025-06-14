@@ -216,28 +216,9 @@ The interactive Power BI dashboard (`project.pbix`) features:
    - Follow notebook documentation
    - Use provided templates
 
-## 🤝 Contributing
-
-We welcome contributions! Please follow these steps:
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 📫 Contact
-
-Project Maintainer - [Your Name](mailto:your.email@domain.com)
-
-Project Link: [https://github.com/yourusername/your-repo-name](https://github.com/yourusername/your-repo-name)
 
 ---
 
 <div align="center">
-  Made with ❤️ by [Your Organization Name]
+  Made with ❤️ by jagadesh chilla
 </div>
